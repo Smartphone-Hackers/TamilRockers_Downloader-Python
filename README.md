@@ -1,7 +1,7 @@
 # TamilRockers_Downloader-Python
 
 step : 1
-  - pip install requirements.txt
+  - pip install -r requirements.txt
 
 step : 2
   - git clone https://github.com/Smartphone-Hackers/TamilRockers_Downloader-Python/blob/master/tamilrockers_movie_downloader.py
